@@ -1,2 +1,2 @@
-# smart-contracts
-Elohim Smart Contracts
+# Contracts
+Contracts for ElohimCoin ecosystem
